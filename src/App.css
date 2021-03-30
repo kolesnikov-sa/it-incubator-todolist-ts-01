@@ -10,3 +10,12 @@
 .btn-remove {
   background-color: darksalmon;
 }
+
+.active-filter {
+  background-color: orange;
+}
+
+.error {
+  border: red 2px solid;
+  outline: transparent;
+}
